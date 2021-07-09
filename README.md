@@ -24,4 +24,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Srimko - [@srimko](https://twitter.com/srimko) - zernonia@gmail.com
+Srimko - [@srimko](https://twitter.com/srimko)
