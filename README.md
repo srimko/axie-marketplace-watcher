@@ -6,6 +6,10 @@ https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+### Caution
+
+Use with caution. Your ip address may be ban for 5 or 10 minutes by axieinfinity
+
 ## ➕ Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -18,7 +22,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## 📜 License
 
-Not Associated with xieinfinity
+Not Associated with axieinfinity
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
